@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[!Ease Home Page](images/homepage.png)
+![Ease Home Page](images/homepage.png)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
@@ -119,16 +119,16 @@
 ## Usage
 
 Create a pomodoro focus that helps you stay focused on set tasks.
-[!Pomotimer-Settings](images/timer-settings.png)
+![Pomotimer-Settings](images/timer-settings.png)
 
 Receive rewards for completing tasks within the app.
-[!rewards](images/achievement.png)
+![rewards](images/achievement.png)
 
 Organize tasks using a todo list
-[!todolist](images/todolist.png)
+![todolist](images/todolist.png)
 
 Arrange and organize appointments using the calender.
-[!calendar](images/calander.png) [!create-apt](images/create-apt.png)
+![calendar](images/calander.png) [!create-apt](images/create-apt.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
