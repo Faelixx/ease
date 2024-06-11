@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alyshajoy/finalproject">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/logo.png" alt="Logo" height="175">
   </a>
 
 <h3 align="center">Ease</h3>
@@ -59,8 +59,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/homepage.png" alt="Ease home page" height="300">
 
+#### Welcome to Ease!
+
+Ease is a toolkit designed to help those that struggle with ADHD. 
+The toolkit is composed of a focus/pomodoro timer,  a calendar planner, a to do list and an achievement system to create positive reinforcement upon completion of tasks. 
+
+This project is a final project for the Full-Stack Web Development program offered by Lighthouse Labs. It is intended for mobile use for ease of accessibility. 
+
+The app is not intended for commercial use and is meant for learning purposes only. 
+
+**_Inspired by a project member that has children with ADHD._**
+
+<img src="images/homepage.png" alt="Ease home page" height="300" >
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,11 +80,15 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Node][Node.js]][(https://nodejs.org/en)]
-* [![PostgreSQL][PSQL]][(https://www.postgresql.org)]
-* [![Express][Express.js]][(https://expressjs.com/)]
-* [![Sass][Sass]][(https://sass-lang.com/)]
+[![React][React.js]][React-url]
+<br>
+[![Node][Node.js]][Node-url]
+<br>
+[![PostgreSQL][psql]][psql-url]
+<br>
+[![Express][Express.js]][Express-url]
+<br>
+[![Sass][Sass]][Sass-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,17 +133,21 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Create a pomodoro focus that helps you stay focused on set tasks.
-<img src="images/timer-settings.png" height="300">
+### Create a pomodoro focus that helps you stay focused on set tasks.
+<br />
+<img src="images/timer-settings.png" height="500">
 
-Receive rewards for completing tasks within the app.
-<img src="images/achievement.png" height="300">
+### Receive rewards for completing tasks within the app.
+<br />
+<img src="images/achievement.png" height="500">
 
-Organize tasks using a todo list
-<img src="images/todolist.png" height="300">
+### Organize tasks using a todo list
+<br />
+<img src="images/todolist.png" height="500">
 
-Arrange and organize appointments using the calender.
-<img src="images/calander.png" height="300"><img src="images/create-apt.png">
+### Arrange and organize appointments using the calender.
+<br />
+<img src="images/calander.png" height="500"><img src="images/create-apt.png" height="500">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,19 +208,14 @@ You can find the original repository and contributing members' github pages belo
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/github/v/tag/facebook/react?style=for-the-badge&logo=React&logoColor=white&label=React
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Express.js]: https://img.shields.io/github/v/tag/expressjs/express?style=for-the-badge&logo=Express&label=Express&labelColor=White
+[Express-url]: https://expressjs.com/
+[Node.js]: https://img.shields.io/github/v/tag/nodejs/node?style=for-the-badge&logo=Node.js&logoColor=white&label=Node.js
+[Node-url]: https://nodejs.org/en
+[psql]: https://img.shields.io/github/v/tag/postgres/postgres?style=for-the-badge&logo=PostgreSQL&logoColor=white&label=PostgreSQL
+
+[psql-url]: https://www.postgresql.org
+[Sass]: https://img.shields.io/github/v/tag/sass/sass?style=for-the-badge&logo=Sass&logoColor=white&label=Sass
+[Sass-url]: https://sass-lang.com
