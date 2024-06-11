@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alyshajoy/finalproject">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Ease</h3>
@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Ease Home Page](images/homepage.png)
+<img src="images/homepage.png" alt="Ease home page" height="300">
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
@@ -119,16 +119,16 @@
 ## Usage
 
 Create a pomodoro focus that helps you stay focused on set tasks.
-![Pomotimer-Settings](images/timer-settings.png)
+<img src="images/timer-settings.png" height="300">
 
 Receive rewards for completing tasks within the app.
-![rewards](images/achievement.png)
+<img src="images/achievement.png" height="300">
 
 Organize tasks using a todo list
-![todolist](images/todolist.png)
+<img src="images/todolist.png" height="300">
 
 Arrange and organize appointments using the calender.
-![calendar](images/calander.png) [!create-apt](images/create-apt.png)
+<img src="images/calander.png" height="300"><img src="images/create-apt.png">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
